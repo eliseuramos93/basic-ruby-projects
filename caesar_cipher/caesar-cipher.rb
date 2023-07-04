@@ -24,5 +24,3 @@ def caesar_cipher(string, shift_factor)
   end 
   encrypted_array.join("")
 end 
-
-p caesar_cipher("What a string!", 5)
